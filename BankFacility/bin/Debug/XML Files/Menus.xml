@@ -1,0 +1,25 @@
+<Application>
+	<Menus>
+
+		<action type="add">
+			<Menu UniqueID="mnuBankFacility" String="Bank Facility Setup" FatherUID="11264" Type="2" Enabled="1" Position="10" />
+			<Menu UniqueID="mnuLoanIntrMan" String="Loan and Interest Management" FatherUID="43537" Type="2" Enabled="1" Position="11" />
+      <!--<Menu UniqueID="BankFacT" String="Bank Facility Transaction" FatherUID="43537" Type="1" Position="11" />-->
+    </action>
+
+		<action type="add">
+			<Menu UniqueID="loanDC" String="Loan Dimension Config" FatherUID="mnuBankFacility" Type="1" Position="1" />
+			<Menu UniqueID="loanGLAC" String="Loan G/L Setup" FatherUID="mnuBankFacility" Type="1" Position="2" />
+			<Menu UniqueID="bankFac" String="Bank Facility Master" FatherUID="mnuBankFacility" Type="1" Position="3" />
+			
+			--4
+			<Menu UniqueID="loanMaster" String="Loan Master Setup" FatherUID="mnuLoanIntrMan" Type="1" Position="1" />
+			<!--<Menu UniqueID="loanMasterDetails" String="Loan Master Details" FatherUID="mnuLoanIntrMan" Type="1" Position="2" />-->
+			<Menu UniqueID="loanDisbursement" String="Loan Disbursement" FatherUID="mnuLoanIntrMan" Type="1" Position="3" />
+			<Menu UniqueID="interestRepayment" String="Interest and Loan Repayment" FatherUID="mnuLoanIntrMan" Type="1" Position="4" />
+			<Menu UniqueID="interestRate" String="Interest Rate Change Management" FatherUID="mnuLoanIntrMan" Type="1" Position="5" />
+			<Menu UniqueID="monthlyCalc" String="Monthly Loan Interest Calculation" FatherUID="mnuLoanIntrMan" Type="1" Position="6" />
+		</action>
+
+	</Menus>
+</Application>

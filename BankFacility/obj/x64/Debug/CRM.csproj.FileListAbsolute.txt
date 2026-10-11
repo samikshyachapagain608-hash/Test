@@ -1,0 +1,28 @@
+F:\NepalProject\CRM\bin\Debug\bin\Debug\XML Files\CFL.xml
+F:\NepalProject\CRM\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\NepalProject\CRM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\NepalProject\CRM\bin\Debug\CRM.exe.config
+F:\NepalProject\CRM\bin\Debug\CRM.exe
+F:\NepalProject\CRM\bin\Debug\CRM.pdb
+F:\NepalProject\CRM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\NepalProject\CRM\obj\x64\Debug\CRM.DisplayReport.resources
+F:\NepalProject\CRM\obj\x64\Debug\CRM.ReportDisplay.resources
+F:\NepalProject\CRM\obj\x64\Debug\CRM.Form1.resources
+F:\NepalProject\CRM\obj\x64\Debug\CRM.csproj.GenerateResource.Cache
+F:\NepalProject\CRM\obj\x64\Debug\CRM.exe
+F:\NepalProject\CRM\obj\x64\Debug\CRM.pdb
+F:\NepalProject\CRM\obj\x64\Debug\CRM.csprojResolveAssemblyReference.cache
+E:\ird\CRM\bin\Debug\CRM.exe.config
+E:\ird\CRM\obj\x64\Debug\CRM.exe
+E:\ird\CRM\obj\x64\Debug\CRM.pdb
+E:\ird\CRM\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\CRM\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\CRM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\CRM\bin\Debug\CRM.exe
+E:\ird\CRM\bin\Debug\CRM.pdb
+E:\ird\CRM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\CRM\obj\x64\Debug\CRM.DisplayReport.resources
+E:\ird\CRM\obj\x64\Debug\CRM.ReportDisplay.resources
+E:\ird\CRM\obj\x64\Debug\CRM.Form1.resources
+E:\ird\CRM\obj\x64\Debug\CRM.csproj.GenerateResource.Cache
+E:\ird\CRM\obj\x64\Debug\CRM.csprojResolveAssemblyReference.cache

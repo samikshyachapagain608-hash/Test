@@ -1,0 +1,52 @@
+E:\ird\CRM\bin\Debug\CRM.exe
+E:\ird\CRM\bin\Debug\CRM.pdb
+E:\ird\CRM\bin\Debug\CRM.exe.config
+E:\ird\CRM\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\CRM\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\CRM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\CRM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\CRM\obj\x86\Debug\CRM.DisplayReport.resources
+E:\ird\CRM\obj\x86\Debug\CRM.ReportDisplay.resources
+E:\ird\CRM\obj\x86\Debug\CRM.Form1.resources
+E:\ird\CRM\obj\x86\Debug\CRM.csproj.GenerateResource.Cache
+E:\ird\CRM\obj\x86\Debug\CRM.exe
+E:\ird\CRM\obj\x86\Debug\CRM.pdb
+\\192.168.11.244\ird\CRM\bin\Debug\CRM.exe.config
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.exe
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.pdb
+\\192.168.11.244\ird\CRM\bin\Debug\bin\Debug\XML Files\CFL.xml
+\\192.168.11.244\ird\CRM\bin\Debug\bin\Debug\XML Files\Menus.xml
+\\192.168.11.244\ird\CRM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+\\192.168.11.244\ird\CRM\bin\Debug\CRM.exe
+\\192.168.11.244\ird\CRM\bin\Debug\CRM.pdb
+\\192.168.11.244\ird\CRM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.csprojResolveAssemblyReference.cache
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.DisplayReport.resources
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.ReportDisplay.resources
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.Form1.resources
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.csproj.GenerateResource.Cache
+E:\ird\CRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.Shared.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\ird\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ird\CRM\bin\Debug\FlashControlV71.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ird\CRM\bin\Debug\stdole.dll
+E:\ird\CRM\bin\Debug\ShockwaveFlashObjects.dll
+E:\ird\CRM\bin\Debug\Sap.Data.Hana.v3.5.xml
+E:\ird\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll.config
+E:\ird\CRM\obj\x86\Debug\CRM.csproj.CoreCompileInputs.cache
+E:\ird\CRM\obj\x86\Debug\CRM.csproj.CopyComplete
+E:\ird\CRM\obj\x86\Debug\CRM.csproj.AssemblyReference.cache

@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\business logics\\custom forms\\clsloanmasterdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:business logics\\custom forms\\clsloanmasterdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|d:\\bibas\\addon_ver10\\ktm-200\\addon-03032024\\bankfacility\\base classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:base classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\business logics\\custom forms\\clsloanmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:business logics\\custom forms\\clsloanmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\business logics\\custom forms\\clsinterestandloanrepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:business logics\\custom forms\\clsinterestandloanrepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\business logics\\custom forms\\clsloandisbursement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:business logics\\custom forms\\clsloandisbursement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\debug\\xml files\\loanmaster.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:bin\\debug\\xml files\\loanmaster.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\debug\\xml files\\loandisbursement.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:bin\\debug\\xml files\\loandisbursement.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\business logics\\custom forms\\clsmonthlyinterestcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:business logics\\custom forms\\clsmonthlyinterestcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\business logics\\custom forms\\clsinterestratechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:business logics\\custom forms\\clsinterestratechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\debug\\xml files\\monthlyinterestcalc.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:bin\\debug\\xml files\\monthlyinterestcalc.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\debug\\xml files\\interestrepayment.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:bin\\debug\\xml files\\interestrepayment.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\debug\\xml files\\loanmasterdetails.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:bin\\debug\\xml files\\loanmasterdetails.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\business logics\\custom forms\\clsbankfac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:business logics\\custom forms\\clsbankfac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\business logics\\custom forms\\clsbankfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:business logics\\custom forms\\clsbankfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\debug\\xml files\\interestratechange.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|BankFacility.csproj|solutionrelative:bin\\debug\\xml files\\interestratechange.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClsLoanDisbursement.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsLoanDisbursement.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ClsLoanDisbursement.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsLoanDisbursement.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ClsLoanDisbursement.cs",
+              "ViewState": "AgIAAFwDAAAAAAAAAAD4v2kDAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T10:18:02.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClsInterestandLoanRepayment.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsInterestandLoanRepayment.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ClsInterestandLoanRepayment.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsInterestandLoanRepayment.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ClsInterestandLoanRepayment.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAD4v/4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T10:23:55.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClsLoanMaster.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsLoanMaster.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ClsLoanMaster.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsLoanMaster.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ClsLoanMaster.cs",
+              "ViewState": "AgIAAHcEAAAAAAAAAIAwwH8EAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T11:16:43.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Base Classes\\Database.cs",
+              "RelativeDocumentMoniker": "Base Classes\\Database.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Base Classes\\Database.cs",
+              "RelativeToolTip": "Base Classes\\Database.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwEcAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T09:02:25.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClsLoanMasterDetails.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsLoanMasterDetails.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ClsLoanMasterDetails.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsLoanMasterDetails.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ClsLoanMasterDetails.cs",
+              "ViewState": "AgIAALYEAAAAAAAAAAAawL4EAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T10:09:01.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoanDisbursement.xml",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\Debug\\XML Files\\LoanDisbursement.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\XML Files\\LoanDisbursement.xml",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\Debug\\XML Files\\LoanDisbursement.xml",
+              "RelativeToolTip": "bin\\Debug\\XML Files\\LoanDisbursement.xml",
+              "ViewState": "AgIAANcAAAAAAAAAAAAUwN8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-09-21T09:39:36.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClsMonthlyInterestCalculation.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsMonthlyInterestCalculation.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ClsMonthlyInterestCalculation.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsMonthlyInterestCalculation.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ClsMonthlyInterestCalculation.cs",
+              "ViewState": "AgIAAK4FAAAAAAAAAAD4v7cFAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T11:30:34.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoanMaster.xml",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\Debug\\XML Files\\LoanMaster.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\XML Files\\LoanMaster.xml",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\Debug\\XML Files\\LoanMaster.xml",
+              "RelativeToolTip": "bin\\Debug\\XML Files\\LoanMaster.xml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwE4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-09-21T09:23:30.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClsInterestRateChange.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsInterestRateChange.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ClsInterestRateChange.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsInterestRateChange.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ClsInterestRateChange.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAD4v2IAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T04:08:58.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoanMasterDetails.xml",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\Debug\\XML Files\\LoanMasterDetails.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\XML Files\\LoanMasterDetails.xml",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\Debug\\XML Files\\LoanMasterDetails.xml",
+              "RelativeToolTip": "bin\\Debug\\XML Files\\LoanMasterDetails.xml",
+              "ViewState": "AgIAANMAAAAAAAAAAAAUwOgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-09-21T09:37:42.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InterestRepayment.xml",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\Debug\\XML Files\\InterestRepayment.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\XML Files\\InterestRepayment.xml",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\Debug\\XML Files\\InterestRepayment.xml",
+              "RelativeToolTip": "bin\\Debug\\XML Files\\InterestRepayment.xml",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAUwNMAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-09-21T09:40:24.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonthlyInterestCalc.xml",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\Debug\\XML Files\\MonthlyInterestCalc.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\XML Files\\MonthlyInterestCalc.xml",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\Debug\\XML Files\\MonthlyInterestCalc.xml",
+              "RelativeToolTip": "bin\\Debug\\XML Files\\MonthlyInterestCalc.xml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwGkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-08-23T11:22:33.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClsBankFacility.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsBankFacility.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ClsBankFacility.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsBankFacility.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ClsBankFacility.cs",
+              "ViewState": "AgIAAIMGAAAAAAAAAAAIwJ0GAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T11:34:36.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClsBankFac.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsBankFac.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ClsBankFac.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\Business Logics\\Custom Forms\\ClsBankFac.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ClsBankFac.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAD4v74AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T08:01:57.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InterestRateChange.xml",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\Debug\\XML Files\\InterestRateChange.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\XML Files\\InterestRateChange.xml",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\KTM-200\\Addon-03032024\\BankFacility\\bin\\Debug\\XML Files\\InterestRateChange.xml",
+              "RelativeToolTip": "bin\\Debug\\XML Files\\InterestRateChange.xml",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvy8AAADBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-08-19T12:03:26.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
